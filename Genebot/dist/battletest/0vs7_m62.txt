@@ -1,0 +1,3004 @@
+Player 1: Variables:
+Player 2: Variables:
+Turn 1
+Player 1: Variables:
+Player 2: Variables:
+Turn 2
+Player 1: Variables:
+Player 2: Variables:
+Turn 3
+Player 1: Variables:
+Player 2: Variables:
+Turn 4
+Player 1: Variables:
+Player 2: Variables:
+Turn 5
+Player 1: Variables:
+Player 2: Variables:
+Turn 6
+Player 1: Variables:
+Player 2: Variables:
+Turn 7
+Player 1: Variables:
+Player 2: Variables:
+Turn 8
+Player 1: Variables:
+Player 2: Variables:
+Turn 9
+Player 1: Variables:
+Player 2: Variables:
+Turn 10
+Player 1: Variables:
+Player 2: Variables:
+Turn 11
+Player 1: Variables:
+Player 2: Variables:
+Turn 12
+Player 1: Variables:
+Player 2: Variables:
+Turn 13
+Player 1: Variables:
+Player 2: Variables:
+Turn 14
+Player 1: Variables:
+Player 2: Variables:
+Turn 15
+Player 1: Variables:
+Player 2: Variables:
+Turn 16
+Player 1: Variables:
+Player 2: Variables:
+Turn 17
+Player 1: Variables:
+Player 2: Variables:
+Turn 18
+Player 1: Variables:
+Player 2: Variables:
+Turn 19
+Player 1: Variables:
+Player 2: Variables:
+Turn 20
+Player 1: Variables:
+Player 2: Variables:
+Turn 21
+Player 1: Variables:
+Player 2: Variables:
+Turn 22
+Player 1: Variables:
+Player 2: Variables:
+Turn 23
+Player 1: Variables:
+Player 2: Variables:
+Turn 24
+Player 1: Variables:
+Player 2: Variables:
+Turn 25
+Player 1: Variables:
+Player 2: Variables:
+Turn 26
+Player 1: Variables:
+Player 2: Variables:
+Turn 27
+Player 1: Variables:
+Player 2: Variables:
+Turn 28
+Player 1: Variables:
+Player 2: Variables:
+Turn 29
+Player 1: Variables:
+Player 2: Variables:
+Turn 30
+Player 1: Variables:
+Player 2: Variables:
+Turn 31
+Player 1: Variables:
+Player 2: Variables:
+Turn 32
+Player 1: Variables:
+Player 2: Variables:
+Turn 33
+Player 1: Variables:
+Player 2: Variables:
+Turn 34
+Player 1: Variables:
+Player 2: Variables:
+Turn 35
+Player 1: Variables:
+Player 2: Variables:
+Turn 36
+Player 1: Variables:
+Player 2: Variables:
+Turn 37
+Player 1: Variables:
+Player 2: Variables:
+Turn 38
+Player 1: Variables:
+Player 2: Variables:
+Turn 39
+Player 1: Variables:
+Player 2: Variables:
+Turn 40
+Player 1: Variables:
+Player 2: Variables:
+Turn 41
+Player 1: Variables:
+Player 2: Variables:
+Turn 42
+Player 1: Variables:
+Player 2: Variables:
+Turn 43
+Player 1: Variables:
+Player 2: Variables:
+Turn 44
+Player 2: Variables:
+Player 1: Variables:
+Turn 45
+Player 1: Variables:
+Player 2: Variables:
+Turn 46
+Player 1: Variables:
+Player 2: Variables:
+Turn 47
+Player 1: Variables:
+Player 2: Variables:
+Turn 48
+Player 1: Variables:
+Player 2: Variables:
+Turn 49
+Player 1: Variables:
+Player 2: Variables:
+Turn 50
+Player 2: Variables:
+Player 1: Variables:
+Turn 51
+Player 1: Variables:
+Player 2: Variables:
+Turn 52
+Player 1: Variables:
+Player 2: Variables:
+Turn 53
+Player 1: Variables:
+Player 2: Variables:
+Turn 54
+Player 1: Variables:
+Player 2: Variables:
+Turn 55
+Player 1: Variables:
+Player 2: Variables:
+Turn 56
+Player 1: Variables:
+Player 2: Variables:
+Turn 57
+Player 1: Variables:
+Player 2: Variables:
+Turn 58
+Player 1: Variables:
+Player 2: Variables:
+Turn 59
+Player 1: Variables:
+Player 2: Variables:
+Turn 60
+Player 1: Variables:
+Player 2: Variables:
+Turn 61
+Player 1: Variables:
+Player 2: Variables:
+Turn 62
+Player 1: Variables:
+Player 2: Variables:
+Turn 63
+Player 1: Variables:
+Player 2: Variables:
+Turn 64
+Player 1: Variables:
+Player 2: Variables:
+Turn 65
+Player 1: Variables:
+Player 2: Variables:
+Turn 66
+Player 1: Variables:
+Player 2: Variables:
+Turn 67
+Player 1: Variables:
+Player 2: Variables:
+Turn 68
+Player 1: Variables:
+Player 2: Variables:
+Turn 69
+Player 1: Variables:
+Player 2: Variables:
+Turn 70
+Player 1: Variables:
+Player 2: Variables:
+Turn 71
+Player 1: Variables:
+Player 2: Variables:
+Turn 72
+Player 1: Variables:
+Player 2: Variables:
+Turn 73
+Player 1: Variables:
+Player 2: Variables:
+Turn 74
+Player 1: Variables:
+Player 2: Variables:
+Turn 75
+Player 1: Variables:
+Player 2: Variables:
+Turn 76
+Player 1: Variables:
+Player 2: Variables:
+Turn 77
+Player 1: Variables:
+Player 2: Variables:
+Turn 78
+Player 1: Variables:
+Player 2: Variables:
+Turn 79
+Player 1: Variables:
+Player 2: Variables:
+Turn 80
+Player 1: Variables:
+Player 2: Variables:
+Turn 81
+Player 1: Variables:
+Player 2: Variables:
+Turn 82
+Player 1: Variables:
+Player 2: Variables:
+Turn 83
+Player 1: Variables:
+Player 2: Variables:
+Turn 84
+Player 1: Variables:
+Player 2: Variables:
+Turn 85
+Player 1: Variables:
+Player 2: Variables:
+Turn 86
+Player 1: Variables:
+Player 2: Variables:
+Turn 87
+Player 1: Variables:
+Player 2: Variables:
+Turn 88
+Player 1: Variables:
+Player 2: Variables:
+Turn 89
+Player 1: 
+Player 2: Variables:
+Turn 90
+Player 1: Variables:
+Player 2: Variables:
+Turn 91
+Player 1: Variables:
+Player 2: Variables:
+Turn 92
+Player 1: Variables:
+Player 2: Variables:
+Turn 93
+Player 2: Variables:
+Player 1: Variables:
+Turn 94
+Player 1: Variables:
+Player 2: Variables:
+Turn 95
+Player 1: Variables:
+Player 2: Variables:
+Turn 96
+Player 1: Variables:
+Player 2: Variables:
+Turn 97
+Player 1: Variables:
+Player 2: Variables:
+Turn 98
+Player 1: Variables:
+Player 2: Variables:
+Turn 99
+Player 1: Variables:
+Player 2: Variables:
+Turn 100
+Player 2: Variables:
+Player 1: Variables:
+Turn 101
+Player 1: Variables:
+Player 2: Variables:
+Turn 102
+Player 1: Variables:
+Player 2: Variables:
+Turn 103
+Player 1: Variables:
+Player 2: Variables:
+Turn 104
+Player 1: Variables:
+Player 2: Variables:
+Turn 105
+Player 1: Variables:
+Player 2: Variables:
+Turn 106
+Player 1: Variables:
+Player 2: Variables:
+Turn 107
+Player 1: Variables:
+Player 2: Variables:
+Turn 108
+Player 1: Variables:
+Player 2: Variables:
+Turn 109
+Player 1: Variables:
+Player 2: Variables:
+Turn 110
+Player 1: Variables:
+Player 2: Variables:
+Turn 111
+Player 1: Variables:
+Player 2: Variables:
+Turn 112
+Player 1: Variables:
+Player 2: Variables:
+Turn 113
+Player 1: Variables:
+Player 2: Variables:
+Turn 114
+Player 1: Variables:
+Player 2: Variables:
+Turn 115
+Player 1: Variables:
+Player 2: Variables:
+Turn 116
+Player 1: Variables:
+Player 2: Variables:
+Turn 117
+Player 1: Variables:
+Player 2: Variables:
+Turn 118
+Player 1: Variables:
+Player 2: Variables:
+Turn 119
+Player 1: Variables:
+Player 2: Variables:
+Turn 120
+Player 1: Variables:
+Player 2: Variables:
+Turn 121
+Player 1: Variables:
+Player 2: Variables:
+Turn 122
+Player 1: Variables:
+Player 2: Variables:
+Turn 123
+Player 1: Variables:
+Player 2: Variables:
+Turn 124
+Player 1: Variables:
+Player 2: Variables:
+Turn 125
+Player 1: Variables:
+Player 2: Variables:
+Turn 126
+Player 1: Variables:
+Player 2: Variables:
+Turn 127
+Player 1: Variables:
+Player 2: Variables:
+Turn 128
+Player 1: Variables:
+Player 2: Variables:
+Turn 129
+Player 1: Variables:
+Player 2: Variables:
+Turn 130
+Player 1: Variables:
+Player 2: Variables:
+Turn 131
+Player 1: Variables:
+Player 2: Variables:
+Turn 132
+Player 1: Variables:
+Player 2: Variables:
+Turn 133
+Player 1: Variables:
+Player 2: Variables:
+Turn 134
+Player 1: Variables:
+Player 2: Variables:
+Turn 135
+Player 1: Variables:
+Player 2: Variables:
+Turn 136
+Player 1: Variables:
+Player 2: Variables:
+Turn 137
+Player 1: Variables:
+Player 2: Variables:
+Turn 138
+Player 1: Variables:
+Player 2: Variables:
+Turn 139
+Player 1: Variables:
+Player 2: Variables:
+Turn 140
+Player 1: Variables:
+Player 2: Variables:
+Turn 141
+Player 2: Variables:
+Player 1: Variables:
+Turn 142
+Player 1: Variables:
+Player 2: Variables:
+Turn 143
+Player 2: Variables:
+Player 1: Variables:
+Turn 144
+Player 2: Variables:
+Player 1: Variables:
+Turn 145
+Player 1: Variables:
+Player 2: Variables:
+Turn 146
+Player 1: Variables:
+Player 2: Variables:
+Turn 147
+Player 1: Variables:
+Player 2: Variables:
+Turn 148
+Player 1: Variables:
+Player 2: Variables:
+Turn 149
+Player 1: Variables:
+Player 2: Variables:
+Turn 150
+Player 1: Variables:
+Player 2: Variables:
+Turn 151
+Player 1: Variables:
+Player 2: Variables:
+Turn 152
+Player 1: Variables:
+Player 2: Variables:
+Turn 153
+Player 1: Variables:
+Player 2: Variables:
+Turn 154
+Player 1: Variables:
+Player 2: Variables:
+Turn 155
+Player 1: Variables:
+Player 2: Variables:
+Turn 156
+Player 1: Variables:
+Player 2: Variables:
+Turn 157
+Player 1: Variables:
+Player 2: Variables:
+Turn 158
+Player 1: Variables:
+Player 2: Variables:
+Turn 159
+Player 1: Variables:
+Player 2: Variables:
+Turn 160
+Player 1: Variables:
+Player 2: Variables:
+Turn 161
+Player 1: Variables:
+Player 2: Variables:
+Turn 162
+Player 1: Variables:
+Player 2: Variables:
+Turn 163
+Player 1: Variables:
+Player 2: Variables:
+Turn 164
+Player 1: Variables:
+Player 2: Variables:
+Turn 165
+Player 1: Variables:
+Player 2: Variables:
+Turn 166
+Player 1: Variables:
+Player 2: Variables:
+Turn 167
+Player 1: Variables:
+Player 2: Variables:
+Turn 168
+Player 1: Variables:
+Player 2: Variables:
+Turn 169
+Player 2: Variables:
+Player 1: Variables:
+Turn 170
+Player 1: Variables:
+Player 2: Variables:
+Turn 171
+Player 2: Variables:
+Player 1: Variables:
+Turn 172
+Player 1: Variables:
+Player 2: Variables:
+Turn 173
+Player 1: Variables:
+Player 2: Variables:
+Turn 174
+Player 2: Variables:
+Player 1: Variables:
+Turn 175
+Player 1: Variables:
+Player 2: Variables:
+Turn 176
+Player 1: Variables:
+Player 2: Variables:
+Turn 177
+Player 1: Variables:
+Player 2: Variables:
+Turn 178
+Player 1: Variables:
+Player 2: Variables:
+Turn 179
+Player 2: Variables:
+Player 1: Variables:
+Turn 180
+Player 2: Variables:
+Player 1: Variables:
+Turn 181
+Player 1: Variables:
+Player 2: Variables:
+Turn 182
+Player 2: Variables:
+Player 1: Variables:
+Turn 183
+Player 1: Variables:
+Player 2: Variables:
+Turn 184
+Player 2: Variables:
+Player 1: Variables:
+Turn 185
+Player 1: Variables:
+Player 2: Variables:
+Turn 186
+Player 1: Variables:
+Player 2: Variables:
+Turn 187
+Player 1: Variables:
+Player 2: Variables:
+Turn 188
+Player 1: Variables:
+Player 2: Variables:
+Turn 189
+Player 2: Variables:
+Player 1: Variables:
+Turn 190
+Player 2: Variables:
+Player 1: Variables:
+Turn 191
+Player 2: Variables:
+Player 1: Variables:
+Turn 192
+Player 2: Variables:
+Player 1: Variables:
+Turn 193
+Player 2: Variables:
+Player 1: Variables:
+Turn 194
+Player 2: Variables:
+Player 1: Variables:
+Turn 195
+Player 2: Variables:
+Player 1: Variables:
+Turn 196
+Player 1: Variables:
+Player 2: Variables:
+Turn 197
+Player 1: Variables:
+Player 2: Variables:
+Turn 198
+Player 1: Variables:
+Player 2: Variables:
+Turn 199
+Player 1: Variables:
+Player 2: Variables:
+Turn 200
+Player 2: Variables:
+Player 1: Variables:
+Turn 201
+Player 1: Variables:
+Player 2: Variables:
+Turn 202
+Player 1: Variables:
+Player 2: Variables:
+Turn 203
+Player 1: Variables:
+Player 2: Variables:
+Turn 204
+Player 1: Variables:
+Player 2: Variables:
+Turn 205
+Player 1: Variables:
+Player 2: Variables:
+Turn 206
+Player 1: Variables:
+Player 2: Variables:
+Turn 207
+Player 1: Variables:
+Player 2: Variables:
+Turn 208
+Player 1: Variables:
+Player 2: Variables:
+Turn 209
+Player 1: Variables:
+Player 2: Variables:
+Turn 210
+Player 1: Variables:
+Player 2: Variables:
+Turn 211
+Player 1: Variables:
+Player 2: Variables:
+Turn 212
+Player 1: Variables:
+Player 2: Variables:
+Turn 213
+Player 1: Variables:
+Player 2: Variables:
+Turn 214
+Player 1: Variables:
+Player 2: Variables:
+Turn 215
+Player 1: Variables:
+Player 2: Variables:
+Turn 216
+Player 1: Variables:
+Player 2: Variables:
+Turn 217
+Player 1: Variables:
+Player 2: Variables:
+Turn 218
+Player 1: Variables:
+Player 2: Variables:
+Turn 219
+Player 1: Variables:
+Player 2: Variables:
+Turn 220
+Player 1: Variables:
+Player 2: Variables:
+Turn 221
+Player 1: Variables:
+Player 2: Variables:
+Turn 222
+Player 1: Variables:
+Player 2: Variables:
+Turn 223
+Player 1: Variables:
+Player 2: Variables:
+Turn 224
+Player 1: Variables:
+Player 2: Variables:
+Turn 225
+Player 1: Variables:
+Player 2: Variables:
+Turn 226
+Player 1: Variables:
+Player 2: Variables:
+Turn 227
+Player 1: Variables:
+Player 2: Variables:
+Turn 228
+Player 1: Variables:
+Player 2: Variables:
+Turn 229
+Player 1: Variables:
+Player 2: Variables:
+Turn 230
+Player 1: Variables:
+Player 2: Variables:
+Turn 231
+Player 1: Variables:
+Player 2: Variables:
+Turn 232
+Player 1: Variables:
+Player 2: Variables:
+Turn 233
+Player 1: Variables:
+Player 2: Variables:
+Turn 234
+Player 1: Variables:
+Player 2: Variables:
+Turn 235
+Player 1: Variables:
+Player 2: Variables:
+Turn 236
+Player 1: Variables:
+Player 2: Variables:
+Turn 237
+Player 1: Variables:
+Player 2: Variables:
+Turn 238
+Player 1: Variables:
+Player 2: Variables:
+Turn 239
+Player 1: Variables:
+Player 2: Variables:
+Turn 240
+Player 1: Variables:
+Player 2: Variables:
+Turn 241
+Player 1: Variables:
+Player 2: Variables:
+Turn 242
+Player 1: Variables:
+Player 2: Variables:
+Turn 243
+Player 1: Variables:
+Player 2: Variables:
+Turn 244
+Player 1: Variables:
+Player 2: Variables:
+Turn 245
+Player 1: Variables:
+Player 2: Variables:
+Turn 246
+Player 2: Variables:
+Player 1: Variables:
+Turn 247
+Player 1: Variables:
+Player 2: Variables:
+Turn 248
+Player 1: Variables:
+Player 2: Variables:
+Turn 249
+Player 1: Variables:
+Player 2: Variables:
+Turn 250
+Player 2: Variables:
+Player 1: Variables:
+Turn 251
+Player 2: Variables:
+Player 1: Variables:
+Turn 252
+Player 1: Variables:
+Player 2: Variables:
+Turn 253
+Player 2: Variables:
+Player 1: Variables:
+Turn 254
+Player 1: Variables:
+Player 2: Variables:
+Turn 255
+Player 1: Variables:
+Player 2: Variables:
+Turn 256
+Player 1: Variables:
+Player 2: Variables:
+Turn 257
+Player 1: Variables:
+Player 2: Variables:
+Turn 258
+Player 1: Variables:
+Player 2: Variables:
+Turn 259
+Player 1: Variables:
+Player 2: Variables:
+Turn 260
+Player 1: Variables:
+Player 2: Variables:
+Turn 261
+Player 1: Variables:
+Player 2: Variables:
+Turn 262
+Player 2: Variables:
+Player 1: Variables:
+Turn 263
+Player 1: Variables:
+Player 2: Variables:
+Turn 264
+Player 1: Variables:
+Player 2: Variables:
+Turn 265
+Player 1: Variables:
+Player 2: Variables:
+Turn 266
+Player 1: 
+Player 2: Variables:
+Turn 267
+Player 1: Variables:
+Player 2: Variables:
+Turn 268
+Player 1: Variables:
+Player 2: Variables:
+Turn 269
+Player 1: Variables:
+Player 2: Variables:
+Turn 270
+Player 1: Variables:
+Player 2: Variables:
+Turn 271
+Player 1: Variables:
+Player 2: Variables:
+Turn 272
+Player 1: Variables:
+Player 2: Variables:
+Turn 273
+Player 1: Variables:
+Player 2: Variables:
+Turn 274
+Player 1: Variables:
+Player 2: Variables:
+Turn 275
+Player 1: Variables:
+Player 2: Variables:
+Turn 276
+Player 1: Variables:
+Player 2: Variables:
+Turn 277
+Player 1: Variables:
+Player 2: Variables:
+Turn 278
+Player 1: Variables:
+Player 2: Variables:
+Turn 279
+Player 1: Variables:
+Player 2: Variables:
+Turn 280
+Player 1: Variables:
+Player 2: Variables:
+Turn 281
+Player 1: Variables:
+Player 2: Variables:
+Turn 282
+Player 1: Variables:
+Player 2: Variables:
+Turn 283
+Player 1: Variables:
+Player 2: Variables:
+Turn 284
+Player 1: Variables:
+Player 2: Variables:
+Turn 285
+Player 1: Variables:
+Player 2: Variables:
+Turn 286
+Player 1: Variables:
+Player 2: Variables:
+Turn 287
+Player 1: Variables:
+Player 2: Variables:
+Turn 288
+Player 1: Variables:
+Player 2: Variables:
+Turn 289
+Player 1: Variables:
+Player 2: Variables:
+Turn 290
+Player 1: Variables:
+Player 2: Variables:
+Turn 291
+Player 1: Variables:
+Player 2: Variables:
+Turn 292
+Player 1: Variables:
+Player 2: Variables:
+Turn 293
+Player 1: Variables:
+Player 2: Variables:
+Turn 294
+Player 1: Variables:
+Player 2: 
+Turn 295
+Player 1: Variables:
+Player 2: Variables:
+Turn 296
+Player 1: Variables:
+Player 2: Variables:
+Turn 297
+Player 2: Variables:
+Player 1: Variables:
+Turn 298
+Player 1: Variables:
+Player 2: Variables:
+Turn 299
+Player 1: Variables:
+Player 2: Variables:
+Turn 300
+Player 1: Variables:
+Player 2: Variables:
+Turn 301
+Player 1: Variables:
+Player 2: Variables:
+Turn 302
+Player 2: Variables:
+Player 1: Variables:
+Turn 303
+Player 1: Variables:
+Player 2: Variables:
+Turn 304
+Player 1: Variables:
+Player 2: Variables:
+Turn 305
+Player 1: Variables:
+Player 2: Variables:
+Turn 306
+Player 1: Variables:
+Player 2: Variables:
+Turn 307
+Player 1: Variables:
+Player 2: Variables:
+Turn 308
+Player 1: Variables:
+Player 2: Variables:
+Turn 309
+Player 1: Variables:
+Player 2: Variables:
+Turn 310
+Player 1: Variables:
+Player 2: Variables:
+Turn 311
+Player 2: Variables:
+Player 1: Variables:
+Turn 312
+Player 1: Variables:
+Player 2: Variables:
+Turn 313
+Player 1: Variables:
+Player 2: Variables:
+Turn 314
+Player 1: Variables:
+Player 2: Variables:
+Turn 315
+Player 1: Variables:
+Player 2: Variables:
+Turn 316
+Player 1: Variables:
+Player 2: Variables:
+Turn 317
+Player 2: Variables:
+Player 1: Variables:
+Turn 318
+Player 2: Variables:
+Player 1: Variables:
+Turn 319
+Player 2: Variables:
+Player 1: Variables:
+Turn 320
+Player 2: Variables:
+Player 1: Variables:
+Turn 321
+Player 1: Variables:
+Player 2: Variables:
+Turn 322
+Player 2: Variables:
+Player 1: Variables:
+Turn 323
+Player 2: Variables:
+Player 1: Variables:
+Turn 324
+Player 2: Variables:
+Player 1: Variables:
+Turn 325
+Player 2: Variables:
+Player 1: Variables:
+Turn 326
+Player 1: Variables:
+Player 2: Variables:
+Turn 327
+Player 2: Variables:
+Player 1: Variables:
+Turn 328
+Player 2: Variables:
+Player 1: Variables:
+Turn 329
+Player 1: Variables:
+Player 2: Variables:
+Turn 330
+Player 1: Variables:
+Player 2: Variables:
+Turn 331
+Player 2: Variables:
+Player 1: Variables:
+Turn 332
+Player 2: Variables:
+Player 1: Variables:
+Turn 333
+Player 1: Variables:
+Player 2: Variables:
+Turn 334
+Player 1: Variables:
+Player 2: Variables:
+Turn 335
+Player 2: Variables:
+Player 1: Variables:
+Turn 336
+Player 2: Variables:
+Player 1: Variables:
+Turn 337
+Player 2: Variables:
+Player 1: Variables:
+Turn 338
+Player 2: Variables:
+Player 1: Variables:
+Turn 339
+Player 1: Variables:
+Player 2: Variables:
+Turn 340
+Player 2: Variables:
+Player 1: Variables:
+Turn 341
+Player 1: Variables:
+Player 2: Variables:
+Turn 342
+Player 2: Variables:
+Player 1: Variables:
+Turn 343
+Player 2: Variables:
+Player 1: Variables:
+Turn 344
+Player 2: Variables:
+Player 1: Variables:
+Turn 345
+Player 2: Variables:
+Player 1: Variables:
+Turn 346
+Player 2: Variables:
+Player 1: Variables:
+Turn 347
+Player 2: Variables:
+Player 1: Variables:
+Turn 348
+Player 1: Variables:
+Player 2: Variables:
+Turn 349
+Player 1: Variables:
+Player 2: Variables:
+Turn 350
+Player 1: Variables:
+Player 2: Variables:
+Turn 351
+Player 2: Variables:
+Player 1: Variables:
+Turn 352
+Player 2: Variables:
+Player 1: Variables:
+Turn 353
+Player 2: Variables:
+Player 1: Variables:
+Turn 354
+Player 2: Variables:
+Player 1: Variables:
+Turn 355
+Player 2: Variables:
+Player 1: Variables:
+Turn 356
+Player 2: Variables:
+Player 1: Variables:
+Turn 357
+Player 2: Variables:
+Player 1: Variables:
+Turn 358
+Player 1: Variables:
+Player 2: Variables:
+Turn 359
+Player 1: Variables:
+Player 2: Variables:
+Turn 360
+Player 1: Variables:
+Player 2: Variables:
+Turn 361
+Player 1: Variables:
+Player 2: Variables:
+Turn 362
+Player 1: Variables:
+Player 2: Variables:
+Turn 363
+Player 1: Variables:
+Player 2: Variables:
+Turn 364
+Player 1: Variables:
+Player 2: Variables:
+Turn 365
+Player 1: Variables:
+Player 2: Variables:
+Turn 366
+Player 1: Variables:
+Player 2: Variables:
+Turn 367
+Player 1: Variables:
+Player 2: Variables:
+Turn 368
+Player 1: Variables:
+Player 2: Variables:
+Turn 369
+Player 1: Variables:
+Player 2: Variables:
+Turn 370
+Player 1: Variables:
+Player 2: Variables:
+Turn 371
+Player 1: Variables:
+Player 2: Variables:
+Turn 372
+Player 1: Variables:
+Player 2: Variables:
+Turn 373
+Player 1: Variables:
+Player 2: Variables:
+Turn 374
+Player 1: Variables:
+Player 2: Variables:
+Turn 375
+Player 2: Variables:
+Player 1: Variables:
+Turn 376
+Player 2: Variables:
+Player 1: Variables:
+Turn 377
+Player 2: Variables:
+Player 1: Variables:
+Turn 378
+Player 2: Variables:
+Player 1: Variables:
+Turn 379
+Player 2: Variables:
+Player 1: Variables:
+Turn 380
+Player 1: Variables:
+Player 2: Variables:
+Turn 381
+Player 1: Variables:
+Player 2: Variables:
+Turn 382
+Player 1: Variables:
+Player 2: Variables:
+Turn 383
+Player 1: Variables:
+Player 2: Variables:
+Turn 384
+Player 1: Variables:
+Player 2: Variables:
+Turn 385
+Player 1: Variables:
+Player 2: Variables:
+Turn 386
+Player 1: Variables:
+Player 2: Variables:
+Turn 387
+Player 1: Variables:
+Player 2: Variables:
+Turn 388
+Player 1: Variables:
+Player 2: Variables:
+Turn 389
+Player 1: Variables:
+Player 2: Variables:
+Turn 390
+Player 1: Variables:
+Player 2: Variables:
+Turn 391
+Player 1: Variables:
+Player 2: Variables:
+Turn 392
+Player 1: Variables:
+Player 2: Variables:
+Turn 393
+Player 1: Variables:
+Player 2: Variables:
+Turn 394
+Player 1: Variables:
+Player 2: Variables:
+Turn 395
+Player 1: Variables:
+Player 2: Variables:
+Turn 396
+Player 1: Variables:
+Player 2: Variables:
+Turn 397
+Player 2: Variables:
+Player 1: Variables:
+Turn 398
+Player 1: Variables:
+Player 2: Variables:
+Turn 399
+Player 1: Variables:
+Player 2: Variables:
+Turn 400
+Player 1: Variables:
+Player 2: Variables:
+Turn 401
+Player 1: Variables:
+Player 2: Variables:
+Turn 402
+Player 1: Variables:
+Player 2: Variables:
+Turn 403
+Player 1: Variables:
+Player 2: Variables:
+Turn 404
+Player 1: Variables:
+Player 2: Variables:
+Turn 405
+Player 1: Variables:
+Player 2: Variables:
+Turn 406
+Player 1: Variables:
+Player 2: Variables:
+Turn 407
+Player 1: Variables:
+Player 2: Variables:
+Turn 408
+Player 1: Variables:
+Player 2: Variables:
+Turn 409
+Player 1: Variables:
+Player 2: Variables:
+Turn 410
+Player 1: Variables:
+Player 2: Variables:
+Turn 411
+Player 1: Variables:
+Player 2: Variables:
+Turn 412
+Player 2: Variables:
+Player 1: 
+Turn 413
+Player 1: Variables:
+Player 2: Variables:
+Turn 414
+Player 1: Variables:
+Player 2: Variables:
+Turn 415
+Player 1: Variables:
+Player 2: Variables:
+Turn 416
+Player 1: Variables:
+Player 2: Variables:
+Turn 417
+Player 1: Variables:
+Player 2: Variables:
+Turn 418
+Player 1: Variables:
+Player 2: Variables:
+Turn 419
+Player 1: Variables:
+Player 2: Variables:
+Turn 420
+Player 1: Variables:
+Player 2: Variables:
+Turn 421
+Player 2: Variables:
+Player 1: Variables:
+Turn 422
+Player 1: Variables:
+Player 2: Variables:
+Turn 423
+Player 1: Variables:
+Player 2: Variables:
+Turn 424
+Player 1: Variables:
+Player 2: Variables:
+Turn 425
+Player 1: 
+Player 2: Variables:
+Turn 426
+Player 1: Variables:
+Player 2: Variables:
+Turn 427
+Player 1: Variables:
+Player 2: Variables:
+Turn 428
+Player 1: Variables:
+Player 2: Variables:
+Turn 429
+Player 1: Variables:
+Player 2: Variables:
+Turn 430
+Player 1: Variables:
+Player 2: Variables:
+Turn 431
+Player 1: Variables:
+Player 2: Variables:
+Turn 432
+Player 1: Variables:
+Player 2: Variables:
+Turn 433
+Player 1: Variables:
+Player 2: Variables:
+Turn 434
+Player 1: Variables:
+Player 2: Variables:
+Turn 435
+Player 1: Variables:
+Player 2: Variables:
+Turn 436
+Player 1: Variables:
+Player 2: Variables:
+Turn 437
+Player 1: Variables:
+Player 2: Variables:
+Turn 438
+Player 1: Variables:
+Player 2: Variables:
+Turn 439
+Player 1: Variables:
+Player 2: Variables:
+Turn 440
+Player 1: Variables:
+Player 2: Variables:
+Turn 441
+Player 1: Variables:
+Player 2: Variables:
+Turn 442
+Player 1: Variables:
+Player 2: Variables:
+Turn 443
+Player 1: Variables:
+Player 2: Variables:
+Turn 444
+Player 1: Variables:
+Player 2: Variables:
+Turn 445
+Player 1: Variables:
+Player 2: Variables:
+Turn 446
+Player 1: Variables:
+Player 2: Variables:
+Turn 447
+Player 1: Variables:
+Player 2: Variables:
+Turn 448
+Player 1: Variables:
+Player 2: Variables:
+Turn 449
+Player 1: Variables:
+Player 2: Variables:
+Turn 450
+Player 1: Variables:
+Player 2: Variables:
+Turn 451
+Player 1: Variables:
+Player 2: Variables:
+Turn 452
+Player 1: Variables:
+Player 2: Variables:
+Turn 453
+Player 1: Variables:
+Player 2: Variables:
+Turn 454
+Player 1: Variables:
+Player 2: Variables:
+Turn 455
+Player 1: Variables:
+Player 2: Variables:
+Turn 456
+Player 1: Variables:
+Player 2: Variables:
+Turn 457
+Player 1: Variables:
+Player 2: Variables:
+Turn 458
+Player 1: Variables:
+Player 2: Variables:
+Turn 459
+Player 1: Variables:
+Player 2: Variables:
+Turn 460
+Player 1: Variables:
+Player 2: Variables:
+Turn 461
+Player 1: Variables:
+Player 2: Variables:
+Turn 462
+Player 1: Variables:
+Player 2: Variables:
+Turn 463
+Player 1: Variables:
+Player 2: Variables:
+Turn 464
+Player 1: Variables:
+Player 2: Variables:
+Turn 465
+Player 1: Variables:
+Player 2: Variables:
+Turn 466
+Player 1: Variables:
+Player 2: Variables:
+Turn 467
+Player 1: Variables:
+Player 2: Variables:
+Turn 468
+Player 1: Variables:
+Player 2: Variables:
+Turn 469
+Player 1: Variables:
+Player 2: Variables:
+Turn 470
+Player 1: Variables:
+Player 2: Variables:
+Turn 471
+Player 1: Variables:
+Player 2: Variables:
+Turn 472
+Player 1: Variables:
+Player 2: Variables:
+Turn 473
+Player 1: Variables:
+Player 2: Variables:
+Turn 474
+Player 1: Variables:
+Player 2: Variables:
+Turn 475
+Player 1: Variables:
+Player 2: Variables:
+Turn 476
+Player 1: Variables:
+Player 2: Variables:
+Turn 477
+Player 1: Variables:
+Player 2: Variables:
+Turn 478
+Player 1: Variables:
+Player 2: Variables:
+Turn 479
+Player 1: Variables:
+Player 2: Variables:
+Turn 480
+Player 1: Variables:
+Player 2: Variables:
+Turn 481
+Player 1: Variables:
+Player 2: Variables:
+Turn 482
+Player 1: Variables:
+Player 2: Variables:
+Turn 483
+Player 1: Variables:
+Player 2: Variables:
+Turn 484
+Player 1: Variables:
+Player 2: Variables:
+Turn 485
+Player 1: Variables:
+Player 2: Variables:
+Turn 486
+Player 1: Variables:
+Player 2: Variables:
+Turn 487
+Player 1: Variables:
+Player 2: Variables:
+Turn 488
+Player 1: Variables:
+Player 2: Variables:
+Turn 489
+Player 1: Variables:
+Player 2: Variables:
+Turn 490
+Player 1: Variables:
+Player 2: Variables:
+Turn 491
+Player 1: Variables:
+Player 2: Variables:
+Turn 492
+Player 1: Variables:
+Player 2: Variables:
+Turn 493
+Player 1: Variables:
+Player 2: Variables:
+Turn 494
+Player 1: Variables:
+Player 2: Variables:
+Turn 495
+Player 1: Variables:
+Player 2: Variables:
+Turn 496
+Player 2: Variables:
+Player 1: Variables:
+Turn 497
+Player 1: Variables:
+Player 2: Variables:
+Turn 498
+Player 1: Variables:
+Player 2: Variables:
+Turn 499
+Player 1: Variables:
+Player 2: Variables:
+Turn 500
+Player 1: Variables:
+Player 2: Variables:
+Turn 501
+Player 1: Variables:
+Player 2: Variables:
+Turn 502
+Player 1: Variables:
+Player 2: Variables:
+Turn 503
+Player 1: Variables:
+Player 2: Variables:
+Turn 504
+Player 1: Variables:
+Player 2: Variables:
+Turn 505
+Player 1: Variables:
+Player 2: Variables:
+Turn 506
+Player 1: Variables:
+Player 2: Variables:
+Turn 507
+Player 1: Variables:
+Player 2: Variables:
+Turn 508
+Player 1: Variables:
+Player 2: Variables:
+Turn 509
+Player 1: Variables:
+Player 2: Variables:
+Turn 510
+Player 1: Variables:
+Player 2: Variables:
+Turn 511
+Player 1: Variables:
+Player 2: Variables:
+Turn 512
+Player 1: Variables:
+Player 2: Variables:
+Turn 513
+Player 1: Variables:
+Player 2: Variables:
+Turn 514
+Player 1: Variables:
+Player 2: Variables:
+Turn 515
+Player 1: Variables:
+Player 2: Variables:
+Turn 516
+Player 1: Variables:
+Player 2: Variables:
+Turn 517
+Player 1: Variables:
+Player 2: Variables:
+Turn 518
+Player 1: Variables:
+Player 2: Variables:
+Turn 519
+Player 1: Variables:
+Player 2: Variables:
+Turn 520
+Player 1: Variables:
+Player 2: Variables:
+Turn 521
+Player 1: Variables:
+Player 2: Variables:
+Turn 522
+Player 1: Variables:
+Player 2: Variables:
+Turn 523
+Player 1: Variables:
+Player 2: Variables:
+Turn 524
+Player 1: Variables:
+Player 2: Variables:
+Turn 525
+Player 1: Variables:
+Player 2: Variables:
+Turn 526
+Player 1: Variables:
+Player 2: Variables:
+Turn 527
+Player 1: Variables:
+Player 2: Variables:
+Turn 528
+Player 1: Variables:
+Player 2: Variables:
+Turn 529
+Player 1: Variables:
+Player 2: Variables:
+Turn 530
+Player 1: Variables:
+Player 2: Variables:
+Turn 531
+Player 1: Variables:
+Player 2: Variables:
+Turn 532
+Player 1: Variables:
+Player 2: Variables:
+Turn 533
+Player 1: Variables:
+Player 2: Variables:
+Turn 534
+Player 1: Variables:
+Player 2: Variables:
+Turn 535
+Player 1: Variables:
+Player 2: Variables:
+Turn 536
+Player 1: Variables:
+Player 2: Variables:
+Turn 537
+Player 1: Variables:
+Player 2: Variables:
+Turn 538
+Player 1: Variables:
+Player 2: Variables:
+Turn 539
+Player 1: Variables:
+Player 2: Variables:
+Turn 540
+Player 1: Variables:
+Player 2: Variables:
+Turn 541
+Player 1: Variables:
+Player 2: Variables:
+Turn 542
+Player 1: Variables:
+Player 2: Variables:
+Turn 543
+Player 1: Variables:
+Player 2: Variables:
+Turn 544
+Player 1: Variables:
+Player 2: Variables:
+Turn 545
+Player 2: Variables:
+Player 1: Variables:
+Turn 546
+Player 1: Variables:
+Player 2: Variables:
+Turn 547
+Player 1: Variables:
+Player 2: Variables:
+Turn 548
+Player 1: Variables:
+Player 2: Variables:
+Turn 549
+Player 1: Variables:
+Player 2: Variables:
+Turn 550
+Player 1: Variables:
+Player 2: Variables:
+Turn 551
+Player 1: Variables:
+Player 2: Variables:
+Turn 552
+Player 1: Variables:
+Player 2: Variables:
+Turn 553
+Player 1: Variables:
+Player 2: Variables:
+Turn 554
+Player 1: Variables:
+Player 2: Variables:
+Turn 555
+Player 1: Variables:
+Player 2: Variables:
+Turn 556
+Player 1: Variables:
+Player 2: Variables:
+Turn 557
+Player 1: Variables:
+Player 2: Variables:
+Turn 558
+Player 1: Variables:
+Player 2: Variables:
+Turn 559
+Player 1: Variables:
+Player 2: Variables:
+Turn 560
+Player 1: Variables:
+Player 2: Variables:
+Turn 561
+Player 1: Variables:
+Player 2: Variables:
+Turn 562
+Player 1: Variables:
+Player 2: Variables:
+Turn 563
+Player 1: Variables:
+Player 2: Variables:
+Turn 564
+Player 1: Variables:
+Player 2: Variables:
+Turn 565
+Player 1: Variables:
+Player 2: Variables:
+Turn 566
+Player 1: Variables:
+Player 2: Variables:
+Turn 567
+Player 1: Variables:
+Player 2: Variables:
+Turn 568
+Player 1: 
+Player 2: Variables:
+Turn 569
+Player 1: Variables:
+Player 2: Variables:
+Turn 570
+Player 1: Variables:
+Player 2: Variables:
+Turn 571
+Player 1: Variables:
+Player 2: Variables:
+Turn 572
+Player 1: Variables:
+Player 2: Variables:
+Turn 573
+Player 1: Variables:
+Player 2: Variables:
+Turn 574
+Player 1: Variables:
+Player 2: Variables:
+Turn 575
+Player 1: Variables:
+Player 2: Variables:
+Turn 576
+Player 1: Variables:
+Player 2: Variables:
+Turn 577
+Player 1: Variables:
+Player 2: Variables:
+Turn 578
+Player 1: Variables:
+Player 2: Variables:
+Turn 579
+Player 1: Variables:
+Player 2: Variables:
+Turn 580
+Player 1: Variables:
+Player 2: Variables:
+Turn 581
+Player 1: Variables:
+Player 2: Variables:
+Turn 582
+Player 1: Variables:
+Player 2: Variables:
+Turn 583
+Player 1: Variables:
+Player 2: Variables:
+Turn 584
+Player 1: Variables:
+Player 2: Variables:
+Turn 585
+Player 1: Variables:
+Player 2: Variables:
+Turn 586
+Player 1: Variables:
+Player 2: Variables:
+Turn 587
+Player 1: Variables:
+Player 2: Variables:
+Turn 588
+Player 1: Variables:
+Player 2: Variables:
+Turn 589
+Player 1: Variables:
+Player 2: Variables:
+Turn 590
+Player 1: Variables:
+Player 2: Variables:
+Turn 591
+Player 1: Variables:
+Player 2: Variables:
+Turn 592
+Player 1: Variables:
+Player 2: Variables:
+Turn 593
+Player 1: Variables:
+Player 2: Variables:
+Turn 594
+Player 1: Variables:
+Player 2: Variables:
+Turn 595
+Player 2: Variables:
+Player 1: Variables:
+Turn 596
+Player 1: Variables:
+Player 2: Variables:
+Turn 597
+Player 1: Variables:
+Player 2: Variables:
+Turn 598
+Player 1: Variables:
+Player 2: Variables:
+Turn 599
+Player 1: Variables:
+Player 2: Variables:
+Turn 600
+Player 1: Variables:
+Player 2: Variables:
+Turn 601
+Player 1: Variables:
+Player 2: Variables:
+Turn 602
+Player 1: Variables:
+Player 2: Variables:
+Turn 603
+Player 1: Variables:
+Player 2: Variables:
+Turn 604
+Player 1: Variables:
+Player 2: Variables:
+Turn 605
+Player 1: Variables:
+Player 2: Variables:
+Turn 606
+Player 1: Variables:
+Player 2: Variables:
+Turn 607
+Player 1: Variables:
+Player 2: Variables:
+Turn 608
+Player 1: Variables:
+Player 2: Variables:
+Turn 609
+Player 1: Variables:
+Player 2: Variables:
+Turn 610
+Player 1: Variables:
+Player 2: Variables:
+Turn 611
+Player 1: Variables:
+Player 2: Variables:
+Turn 612
+Player 1: Variables:
+Player 2: Variables:
+Turn 613
+Player 1: Variables:
+Player 2: Variables:
+Turn 614
+Player 1: Variables:
+Player 2: Variables:
+Turn 615
+Player 1: Variables:
+Player 2: Variables:
+Turn 616
+Player 1: Variables:
+Player 2: Variables:
+Turn 617
+Player 1: Variables:
+Player 2: Variables:
+Turn 618
+Player 1: Variables:
+Player 2: Variables:
+Turn 619
+Player 1: Variables:
+Player 2: Variables:
+Turn 620
+Player 1: Variables:
+Player 2: Variables:
+Turn 621
+Player 1: Variables:
+Player 2: Variables:
+Turn 622
+Player 1: Variables:
+Player 2: Variables:
+Turn 623
+Player 1: Variables:
+Player 2: Variables:
+Turn 624
+Player 1: Variables:
+Player 2: Variables:
+Turn 625
+Player 1: Variables:
+Player 2: Variables:
+Turn 626
+Player 1: Variables:
+Player 2: Variables:
+Turn 627
+Player 1: Variables:
+Player 2: Variables:
+Turn 628
+Player 1: Variables:
+Player 2: Variables:
+Turn 629
+Player 1: Variables:
+Player 2: Variables:
+Turn 630
+Player 1: Variables:
+Player 2: Variables:
+Turn 631
+Player 1: Variables:
+Player 2: Variables:
+Turn 632
+Player 1: Variables:
+Player 2: Variables:
+Turn 633
+Player 1: Variables:
+Player 2: Variables:
+Turn 634
+Player 2: Variables:
+Player 1: Variables:
+Turn 635
+Player 1: Variables:
+Player 2: Variables:
+Turn 636
+Player 1: Variables:
+Player 2: Variables:
+Turn 637
+Player 1: Variables:
+Player 2: Variables:
+Turn 638
+Player 1: Variables:
+Player 2: Variables:
+Turn 639
+Player 1: Variables:
+Player 2: Variables:
+Turn 640
+Player 1: Variables:
+Player 2: Variables:
+Turn 641
+Player 1: Variables:
+Player 2: Variables:
+Turn 642
+Player 1: Variables:
+Player 2: Variables:
+Turn 643
+Player 1: Variables:
+Player 2: Variables:
+Turn 644
+Player 2: Variables:
+Player 1: Variables:
+Turn 645
+Player 1: Variables:
+Player 2: Variables:
+Turn 646
+Player 1: Variables:
+Player 2: Variables:
+Turn 647
+Player 1: Variables:
+Player 2: Variables:
+Turn 648
+Player 1: Variables:
+Player 2: Variables:
+Turn 649
+Player 1: Variables:
+Player 2: Variables:
+Turn 650
+Player 1: Variables:
+Player 2: Variables:
+Turn 651
+Player 1: Variables:
+Player 2: Variables:
+Turn 652
+Player 1: Variables:
+Player 2: Variables:
+Turn 653
+Player 1: Variables:
+Player 2: Variables:
+Turn 654
+Player 1: Variables:
+Player 2: Variables:
+Turn 655
+Player 1: Variables:
+Player 2: Variables:
+Turn 656
+Player 1: Variables:
+Player 2: Variables:
+Turn 657
+Player 1: Variables:
+Player 2: Variables:
+Turn 658
+Player 1: Variables:
+Player 2: Variables:
+Turn 659
+Player 1: Variables:
+Player 2: Variables:
+Turn 660
+Player 1: Variables:
+Player 2: Variables:
+Turn 661
+Player 1: Variables:
+Player 2: Variables:
+Turn 662
+Player 1: Variables:
+Player 2: Variables:
+Turn 663
+Player 1: Variables:
+Player 2: Variables:
+Turn 664
+Player 1: Variables:
+Player 2: Variables:
+Turn 665
+Player 1: Variables:
+Player 2: Variables:
+Turn 666
+Player 1: Variables:
+Player 2: Variables:
+Turn 667
+Player 1: Variables:
+Player 2: Variables:
+Turn 668
+Player 1: Variables:
+Player 2: Variables:
+Turn 669
+Player 1: Variables:
+Player 2: Variables:
+Turn 670
+Player 1: Variables:
+Player 2: Variables:
+Turn 671
+Player 1: Variables:
+Player 2: Variables:
+Turn 672
+Player 1: Variables:
+Player 2: Variables:
+Turn 673
+Player 1: Variables:
+Player 2: Variables:
+Turn 674
+Player 1: Variables:
+Player 2: Variables:
+Turn 675
+Player 1: Variables:
+Player 2: Variables:
+Turn 676
+Player 1: Variables:
+Player 2: Variables:
+Turn 677
+Player 1: Variables:
+Player 2: Variables:
+Turn 678
+Player 1: Variables:
+Player 2: Variables:
+Turn 679
+Player 1: Variables:
+Player 2: Variables:
+Turn 680
+Player 1: Variables:
+Player 2: Variables:
+Turn 681
+Player 1: Variables:
+Player 2: Variables:
+Turn 682
+Player 1: Variables:
+Player 2: Variables:
+Turn 683
+Player 1: Variables:
+Player 2: Variables:
+Turn 684
+Player 1: Variables:
+Player 2: Variables:
+Turn 685
+Player 1: Variables:
+Player 2: Variables:
+Turn 686
+Player 1: Variables:
+Player 2: Variables:
+Turn 687
+Player 1: Variables:
+Player 2: Variables:
+Turn 688
+Player 1: Variables:
+Player 2: Variables:
+Turn 689
+Player 1: Variables:
+Player 2: Variables:
+Turn 690
+Player 1: Variables:
+Player 2: Variables:
+Turn 691
+Player 1: Variables:
+Player 2: Variables:
+Turn 692
+Player 1: Variables:
+Player 2: Variables:
+Turn 693
+Player 1: Variables:
+Player 2: Variables:
+Turn 694
+Player 2: Variables:
+Player 1: Variables:
+Turn 695
+Player 1: Variables:
+Player 2: Variables:
+Turn 696
+Player 1: Variables:
+Player 2: Variables:
+Turn 697
+Player 1: Variables:
+Player 2: Variables:
+Turn 698
+Player 1: Variables:
+Player 2: Variables:
+Turn 699
+Player 1: Variables:
+Player 2: Variables:
+Turn 700
+Player 1: Variables:
+Player 2: Variables:
+Turn 701
+Player 1: Variables:
+Player 2: Variables:
+Turn 702
+Player 1: Variables:
+Player 2: Variables:
+Turn 703
+Player 1: Variables:
+Player 2: Variables:
+Turn 704
+Player 1: Variables:
+Player 2: Variables:
+Turn 705
+Player 1: Variables:
+Player 2: Variables:
+Turn 706
+Player 1: Variables:
+Player 2: Variables:
+Turn 707
+Player 1: Variables:
+Player 2: Variables:
+Turn 708
+Player 1: Variables:
+Player 2: Variables:
+Turn 709
+Player 1: Variables:
+Player 2: Variables:
+Turn 710
+Player 1: Variables:
+Player 2: Variables:
+Turn 711
+Player 1: Variables:
+Player 2: Variables:
+Turn 712
+Player 1: Variables:
+Player 2: Variables:
+Turn 713
+Player 1: Variables:
+Player 2: Variables:
+Turn 714
+Player 1: Variables:
+Player 2: Variables:
+Turn 715
+Player 1: Variables:
+Player 2: Variables:
+Turn 716
+Player 1: Variables:
+Player 2: Variables:
+Turn 717
+Player 1: Variables:
+Player 2: Variables:
+Turn 718
+Player 1: Variables:
+Player 2: Variables:
+Turn 719
+Player 1: Variables:
+Player 2: Variables:
+Turn 720
+Player 1: Variables:
+Player 2: Variables:
+Turn 721
+Player 1: Variables:
+Player 2: Variables:
+Turn 722
+Player 1: Variables:
+Player 2: Variables:
+Turn 723
+Player 1: Variables:
+Player 2: Variables:
+Turn 724
+Player 1: Variables:
+Player 2: Variables:
+Turn 725
+Player 1: Variables:
+Player 2: Variables:
+Turn 726
+Player 1: Variables:
+Player 2: Variables:
+Turn 727
+Player 1: Variables:
+Player 2: Variables:
+Turn 728
+Player 1: Variables:
+Player 2: Variables:
+Turn 729
+Player 1: Variables:
+Player 2: Variables:
+Turn 730
+Player 1: Variables:
+Player 2: Variables:
+Turn 731
+Player 1: Variables:
+Player 2: Variables:
+Turn 732
+Player 1: Variables:
+Player 2: Variables:
+Turn 733
+Player 1: Variables:
+Player 2: Variables:
+Turn 734
+Player 1: Variables:
+Player 2: Variables:
+Turn 735
+Player 1: Variables:
+Player 2: Variables:
+Turn 736
+Player 1: Variables:
+Player 2: Variables:
+Turn 737
+Player 1: Variables:
+Player 2: Variables:
+Turn 738
+Player 1: Variables:
+Player 2: Variables:
+Turn 739
+Player 1: Variables:
+Player 2: Variables:
+Turn 740
+Player 1: Variables:
+Player 2: Variables:
+Turn 741
+Player 1: Variables:
+Player 2: Variables:
+Turn 742
+Player 1: Variables:
+Player 2: Variables:
+Turn 743
+Player 2: Variables:
+Player 1: Variables:
+Turn 744
+Player 1: Variables:
+Player 2: Variables:
+Turn 745
+Player 1: Variables:
+Player 2: Variables:
+Turn 746
+Player 1: Variables:
+Player 2: Variables:
+Turn 747
+Player 1: Variables:
+Player 2: Variables:
+Turn 748
+Player 1: Variables:
+Player 2: Variables:
+Turn 749
+Player 1: Variables:
+Player 2: Variables:
+Turn 750
+Player 1: Variables:
+Player 2: Variables:
+Turn 751
+Player 1: Variables:
+Player 2: Variables:
+Turn 752
+Player 1: Variables:
+Player 2: Variables:
+Turn 753
+Player 1: Variables:
+Player 2: Variables:
+Turn 754
+Player 1: Variables:
+Player 2: Variables:
+Turn 755
+Player 1: Variables:
+Player 2: Variables:
+Turn 756
+Player 2: Variables:
+Player 1: Variables:
+Turn 757
+Player 2: Variables:
+Player 1: Variables:
+Turn 758
+Player 2: Variables:
+Player 1: Variables:
+Turn 759
+Player 2: Variables:
+Player 1: Variables:
+Turn 760
+Player 2: Variables:
+Player 1: Variables:
+Turn 761
+Player 2: Variables:
+Player 1: Variables:
+Turn 762
+Player 1: Variables:
+Player 2: Variables:
+Turn 763
+Player 2: Variables:
+Player 1: Variables:
+Turn 764
+Player 2: Variables:
+Player 1: Variables:
+Turn 765
+Player 1: Variables:
+Player 2: Variables:
+Turn 766
+Player 2: Variables:
+Player 1: Variables:
+Turn 767
+Player 2: Variables:
+Player 1: Variables:
+Turn 768
+Player 2: Variables:
+Player 1: Variables:
+Turn 769
+Player 2: Variables:
+Player 1: Variables:
+Turn 770
+Player 2: Variables:
+Player 1: Variables:
+Turn 771
+Player 1: Variables:
+Player 2: Variables:
+Turn 772
+Player 2: Variables:
+Player 1: Variables:
+Turn 773
+Player 2: Variables:
+Player 1: Variables:
+Turn 774
+Player 1: Variables:
+Player 2: Variables:
+Turn 775
+Player 1: Variables:
+Player 2: Variables:
+Turn 776
+Player 1: Variables:
+Player 2: Variables:
+Turn 777
+Player 1: Variables:
+Player 2: Variables:
+Turn 778
+Player 1: Variables:
+Player 2: Variables:
+Turn 779
+Player 1: Variables:
+Player 2: Variables:
+Turn 780
+Player 1: Variables:
+Player 2: Variables:
+Turn 781
+Player 1: 
+Player 2: Variables:
+Turn 782
+Player 1: Variables:
+Player 2: Variables:
+Turn 783
+Player 1: Variables:
+Player 2: Variables:
+Turn 784
+Player 1: Variables:
+Player 2: Variables:
+Turn 785
+Player 1: Variables:
+Player 2: Variables:
+Turn 786
+Player 2: Variables:
+Player 1: Variables:
+Turn 787
+Player 1: Variables:
+Player 2: Variables:
+Turn 788
+Player 1: Variables:
+Player 2: Variables:
+Turn 789
+Player 1: Variables:
+Player 2: Variables:
+Turn 790
+Player 1: Variables:
+Player 2: Variables:
+Turn 791
+Player 1: Variables:
+Player 2: Variables:
+Turn 792
+Player 1: Variables:
+Player 2: Variables:
+Turn 793
+Player 2: Variables:
+Player 1: Variables:
+Turn 794
+Player 1: Variables:
+Player 2: Variables:
+Turn 795
+Player 1: Variables:
+Player 2: Variables:
+Turn 796
+Player 1: Variables:
+Player 2: Variables:
+Turn 797
+Player 1: Variables:
+Player 2: Variables:
+Turn 798
+Player 1: Variables:
+Player 2: Variables:
+Turn 799
+Player 1: Variables:
+Player 2: Variables:
+Turn 800
+Player 1: Variables:
+Player 2: Variables:
+Turn 801
+Player 1: Variables:
+Player 2: Variables:
+Turn 802
+Player 2: Variables:
+Player 1: Variables:
+Turn 803
+Player 1: Variables:
+Player 2: Variables:
+Turn 804
+Player 1: Variables:
+Player 2: Variables:
+Turn 805
+Player 1: Variables:
+Player 2: Variables:
+Turn 806
+Player 1: Variables:
+Player 2: Variables:
+Turn 807
+Player 1: Variables:
+Player 2: Variables:
+Turn 808
+Player 1: Variables:
+Player 2: Variables:
+Turn 809
+Player 1: Variables:
+Player 2: Variables:
+Turn 810
+Player 1: Variables:
+Player 2: Variables:
+Turn 811
+Player 1: Variables:
+Player 2: Variables:
+Turn 812
+Player 1: Variables:
+Player 2: Variables:
+Turn 813
+Player 1: Variables:
+Player 2: Variables:
+Turn 814
+Player 2: Variables:
+Player 1: 
+Turn 815
+Player 1: Variables:
+Player 2: Variables:
+Turn 816
+Player 1: Variables:
+Player 2: Variables:
+Turn 817
+Player 1: Variables:
+Player 2: Variables:
+Turn 818
+Player 1: Variables:
+Player 2: Variables:
+Turn 819
+Player 1: Variables:
+Player 2: Variables:
+Turn 820
+Player 1: Variables:
+Player 2: Variables:
+Turn 821
+Player 1: Variables:
+Player 2: Variables:
+Turn 822
+Player 1: Variables:
+Player 2: Variables:
+Turn 823
+Player 1: Variables:
+Player 2: Variables:
+Turn 824
+Player 1: Variables:
+Player 2: Variables:
+Turn 825
+Player 1: Variables:
+Player 2: Variables:
+Turn 826
+Player 1: Variables:
+Player 2: Variables:
+Turn 827
+Player 1: Variables:
+Player 2: Variables:
+Turn 828
+Player 1: Variables:
+Player 2: Variables:
+Turn 829
+Player 1: Variables:
+Player 2: Variables:
+Turn 830
+Player 1: Variables:
+Player 2: Variables:
+Turn 831
+Player 1: Variables:
+Player 2: Variables:
+Turn 832
+Player 1: Variables:
+Player 2: Variables:
+Turn 833
+Player 1: Variables:
+Player 2: Variables:
+Turn 834
+Player 1: Variables:
+Player 2: Variables:
+Turn 835
+Player 1: Variables:
+Player 2: Variables:
+Turn 836
+Player 1: Variables:
+Player 2: Variables:
+Turn 837
+Player 1: Variables:
+Player 2: Variables:
+Turn 838
+Player 1: Variables:
+Player 2: Variables:
+Turn 839
+Player 1: Variables:
+Player 2: Variables:
+Turn 840
+Player 1: Variables:
+Player 2: Variables:
+Turn 841
+Player 1: Variables:
+Player 2: Variables:
+Turn 842
+Player 2: Variables:
+Player 1: Variables:
+Turn 843
+Player 1: Variables:
+Player 2: Variables:
+Turn 844
+Player 1: Variables:
+Player 2: Variables:
+Turn 845
+Player 1: Variables:
+Player 2: Variables:
+Turn 846
+Player 1: Variables:
+Player 2: Variables:
+Turn 847
+Player 1: Variables:
+Player 2: Variables:
+Turn 848
+Player 1: Variables:
+Player 2: Variables:
+Turn 849
+Player 1: Variables:
+Player 2: Variables:
+Turn 850
+Player 1: Variables:
+Player 2: Variables:
+Turn 851
+Player 1: Variables:
+Player 2: Variables:
+Turn 852
+Player 1: Variables:
+Player 2: Variables:
+Turn 853
+Player 1: Variables:
+Player 2: Variables:
+Turn 854
+Player 1: Variables:
+Player 2: Variables:
+Turn 855
+Player 1: Variables:
+Player 2: Variables:
+Turn 856
+Player 1: Variables:
+Player 2: Variables:
+Turn 857
+Player 1: Variables:
+Player 2: Variables:
+Turn 858
+Player 1: Variables:
+Player 2: Variables:
+Turn 859
+Player 1: Variables:
+Player 2: Variables:
+Turn 860
+Player 1: Variables:
+Player 2: Variables:
+Turn 861
+Player 1: Variables:
+Player 2: Variables:
+Turn 862
+Player 1: Variables:
+Player 2: Variables:
+Turn 863
+Player 1: Variables:
+Player 2: Variables:
+Turn 864
+Player 1: Variables:
+Player 2: Variables:
+Turn 865
+Player 1: Variables:
+Player 2: Variables:
+Turn 866
+Player 1: Variables:
+Player 2: Variables:
+Turn 867
+Player 1: Variables:
+Player 2: Variables:
+Turn 868
+Player 1: Variables:
+Player 2: Variables:
+Turn 869
+Player 1: Variables:
+Player 2: Variables:
+Turn 870
+Player 1: Variables:
+Player 2: Variables:
+Turn 871
+Player 1: Variables:
+Player 2: Variables:
+Turn 872
+Player 1: Variables:
+Player 2: Variables:
+Turn 873
+Player 1: Variables:
+Player 2: Variables:
+Turn 874
+Player 1: Variables:
+Player 2: Variables:
+Turn 875
+Player 1: Variables:
+Player 2: Variables:
+Turn 876
+Player 1: Variables:
+Player 2: Variables:
+Turn 877
+Player 1: Variables:
+Player 2: Variables:
+Turn 878
+Player 1: Variables:
+Player 2: Variables:
+Turn 879
+Player 1: Variables:
+Player 2: Variables:
+Turn 880
+Player 1: Variables:
+Player 2: Variables:
+Turn 881
+Player 1: Variables:
+Player 2: Variables:
+Turn 882
+Player 1: Variables:
+Player 2: Variables:
+Turn 883
+Player 1: Variables:
+Player 2: Variables:
+Turn 884
+Player 1: Variables:
+Player 2: Variables:
+Turn 885
+Player 1: Variables:
+Player 2: Variables:
+Turn 886
+Player 1: Variables:
+Player 2: Variables:
+Turn 887
+Player 1: Variables:
+Player 2: Variables:
+Turn 888
+Player 1: Variables:
+Player 2: Variables:
+Turn 889
+Player 1: Variables:
+Player 2: Variables:
+Turn 890
+Player 1: Variables:
+Player 2: Variables:
+Turn 891
+Player 1: Variables:
+Player 2: Variables:
+Turn 892
+Player 2: Variables:
+Player 1: Variables:
+Turn 893
+Player 1: Variables:
+Player 2: Variables:
+Turn 894
+Player 1: Variables:
+Player 2: Variables:
+Turn 895
+Player 1: Variables:
+Player 2: Variables:
+Turn 896
+Player 1: Variables:
+Player 2: Variables:
+Turn 897
+Player 1: Variables:
+Player 2: Variables:
+Turn 898
+Player 1: Variables:
+Player 2: Variables:
+Turn 899
+Player 1: Variables:
+Player 2: Variables:
+Turn 900
+Player 1: Variables:
+Player 2: Variables:
+Turn 901
+Player 1: Variables:
+Player 2: Variables:
+Turn 902
+Player 1: Variables:
+Player 2: Variables:
+Turn 903
+Player 1: Variables:
+Player 2: Variables:
+Turn 904
+Player 1: Variables:
+Player 2: Variables:
+Turn 905
+Player 1: Variables:
+Player 2: Variables:
+Turn 906
+Player 1: Variables:
+Player 2: Variables:
+Turn 907
+Player 1: Variables:
+Player 2: Variables:
+Turn 908
+Player 1: Variables:
+Player 2: Variables:
+Turn 909
+Player 1: Variables:
+Player 2: Variables:
+Turn 910
+Player 1: Variables:
+Player 2: Variables:
+Turn 911
+Player 1: Variables:
+Player 2: Variables:
+Turn 912
+Player 1: Variables:
+Player 2: Variables:
+Turn 913
+Player 1: Variables:
+Player 2: Variables:
+Turn 914
+Player 1: Variables:
+Player 2: Variables:
+Turn 915
+Player 1: Variables:
+Player 2: Variables:
+Turn 916
+Player 1: Variables:
+Player 2: Variables:
+Turn 917
+Player 1: Variables:
+Player 2: Variables:
+Turn 918
+Player 1: Variables:
+Player 2: Variables:
+Turn 919
+Player 1: Variables:
+Player 2: Variables:
+Turn 920
+Player 1: Variables:
+Player 2: Variables:
+Turn 921
+Player 1: Variables:
+Player 2: Variables:
+Turn 922
+Player 1: Variables:
+Player 2: Variables:
+Turn 923
+Player 1: Variables:
+Player 2: Variables:
+Turn 924
+Player 1: Variables:
+Player 2: Variables:
+Turn 925
+Player 1: Variables:
+Player 2: Variables:
+Turn 926
+Player 1: Variables:
+Player 2: Variables:
+Turn 927
+Player 1: Variables:
+Player 2: Variables:
+Turn 928
+Player 1: Variables:
+Player 2: Variables:
+Turn 929
+Player 1: Variables:
+Player 2: Variables:
+Turn 930
+Player 1: Variables:
+Player 2: Variables:
+Turn 931
+Player 1: Variables:
+Player 2: Variables:
+Turn 932
+Player 1: Variables:
+Player 2: Variables:
+Turn 933
+Player 1: Variables:
+Player 2: Variables:
+Turn 934
+Player 1: Variables:
+Player 2: Variables:
+Turn 935
+Player 1: Variables:
+Player 2: Variables:
+Turn 936
+Player 1: Variables:
+Player 2: Variables:
+Turn 937
+Player 1: Variables:
+Player 2: Variables:
+Turn 938
+Player 2: Variables:
+Player 1: Variables:
+Turn 939
+Player 1: Variables:
+Player 2: Variables:
+Turn 940
+Player 1: Variables:
+Player 2: Variables:
+Turn 941
+Player 2: Variables:
+Player 1: Variables:
+Turn 942
+Player 1: Variables:
+Player 2: Variables:
+Turn 943
+Player 1: Variables:
+Player 2: Variables:
+Turn 944
+Player 1: Variables:
+Player 2: Variables:
+Turn 945
+Player 1: Variables:
+Player 2: Variables:
+Turn 946
+Player 1: Variables:
+Player 2: Variables:
+Turn 947
+Player 1: Variables:
+Player 2: Variables:
+Turn 948
+Player 1: Variables:
+Player 2: Variables:
+Turn 949
+Player 1: Variables:
+Player 2: Variables:
+Turn 950
+Player 1: Variables:
+Player 2: Variables:
+Turn 951
+Player 1: Variables:
+Player 2: Variables:
+Turn 952
+Player 1: Variables:
+Player 2: Variables:
+Turn 953
+Player 1: Variables:
+Player 2: Variables:
+Turn 954
+Player 1: Variables:
+Player 2: Variables:
+Turn 955
+Player 1: Variables:
+Player 2: Variables:
+Turn 956
+Player 1: Variables:
+Player 2: Variables:
+Turn 957
+Player 1: Variables:
+Player 2: Variables:
+Turn 958
+Player 1: Variables:
+Player 2: Variables:
+Turn 959
+Player 1: Variables:
+Player 2: Variables:
+Turn 960
+Player 1: Variables:
+Player 2: Variables:
+Turn 961
+Player 1: Variables:
+Player 2: Variables:
+Turn 962
+Player 1: Variables:
+Player 2: Variables:
+Turn 963
+Player 1: Variables:
+Player 2: Variables:
+Turn 964
+Player 1: Variables:
+Player 2: Variables:
+Turn 965
+Player 1: Variables:
+Player 2: Variables:
+Turn 966
+Player 1: Variables:
+Player 2: Variables:
+Turn 967
+Player 1: Variables:
+Player 2: Variables:
+Turn 968
+Player 1: Variables:
+Player 2: Variables:
+Turn 969
+Player 1: Variables:
+Player 2: Variables:
+Turn 970
+Player 1: Variables:
+Player 2: Variables:
+Turn 971
+Player 1: Variables:
+Player 2: Variables:
+Turn 972
+Player 1: Variables:
+Player 2: Variables:
+Turn 973
+Player 1: Variables:
+Player 2: Variables:
+Turn 974
+Player 1: Variables:
+Player 2: Variables:
+Turn 975
+Player 1: Variables:
+Player 2: Variables:
+Turn 976
+Player 1: Variables:
+Player 2: Variables:
+Turn 977
+Player 1: Variables:
+Player 2: Variables:
+Turn 978
+Player 1: Variables:
+Player 2: Variables:
+Turn 979
+Player 1: Variables:
+Player 2: Variables:
+Turn 980
+Player 1: Variables:
+Player 2: Variables:
+Turn 981
+Player 1: Variables:
+Player 2: Variables:
+Turn 982
+Player 1: Variables:
+Player 2: Variables:
+Turn 983
+Player 1: Variables:
+Player 2: Variables:
+Turn 984
+Player 1: Variables:
+Player 2: Variables:
+Turn 985
+Player 1: Variables:
+Player 2: Variables:
+Turn 986
+Player 1: Variables:
+Player 2: Variables:
+Turn 987
+Player 1: Variables:
+Player 2: Variables:
+Turn 988
+Player 1: Variables:
+Player 2: Variables:
+Turn 989
+Player 1: Variables:
+Player 2: Variables:
+Turn 990
+Player 1: Variables:
+Player 2: Variables:
+Turn 991
+Player 2: Variables:
+Player 1: Variables:
+Turn 992
+Player 1: Variables:
+Player 2: Variables:
+Turn 993
+Player 1: Variables:
+Player 2: Variables:
+Turn 994
+Player 1: Variables:
+Player 2: Variables:
+Turn 995
+Player 1: Variables:
+Player 2: Variables:
+Turn 996
+Player 1: Variables:
+Player 2: Variables:
+Turn 997
+Player 1: Variables:
+Player 2: Variables:
+Turn 998
+Player 1: Variables:
+Player 2: Variables:
+Turn 999
+Player 1: Variables:
+Player 2: Variables:
+Turn 1000
+Player 1: Variables:
+Player 2: Variables:
+Turn 1001
+Player 1 Wins!

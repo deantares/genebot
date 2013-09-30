@@ -1,0 +1,45 @@
+Player 1: Variables:
+Turn 1
+Player 1: Variables:
+Turn 2
+Player 1: Variables:
+Turn 3
+Player 1: 
+Turn 4
+Player 1: Variables:
+Turn 5
+Player 1: Variables:
+Turn 6
+Player 1: Variables:
+Turn 7
+Player 1: Variables:
+Turn 8
+Player 1: Variables:
+Turn 9
+Player 1: Variables:
+Turn 10
+Player 1: Variables:
+Turn 11
+Player 1: Variables:
+Turn 12
+Player 1: Variables:
+Turn 13
+Player 1: 
+Turn 14
+Player 1: Variables:
+Turn 15
+Player 1: Variables:
+Turn 16
+Player 1: Variables:
+Turn 17
+Player 1: Variables:
+Turn 18
+Player 1: Variables:
+Turn 19
+Player 1: Variables:
+Turn 20
+Player 1: Variables:
+Turn 21
+Player 1: Variables:
+Turn 22
+Player 1 Wins!

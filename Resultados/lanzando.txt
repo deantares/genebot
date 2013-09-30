@@ -1,0 +1,17 @@
+
+
+
+java -jar Genebot.jar battletest 0.5998149 0.0 0.32030142 0.63482187 0.671533 0.79080 0.2624520 0.633245 eje1 2> eje1VSGoogleBot.txt &
+java -jar Genebot.jar battletest 0.48231655 0.106495 0.5623 0.4052988 0.3515 0.644162 0.59895 0.8251 eje2 2> eje2VSGoogleBot.txt &
+java -jar Genebot.jar battletest 0.3919305 0.0302792 0.6908147 0.35594 0.42640 0.814945 0.55498813 0.2101598 eje3  2> eje3VSGoogleBot.txt &
+java -jar Genebot.jar battletest 0.0342222 0.496961 0.661812 0.616489 0.0795 0.71095 0.71195 0.45054 0.4759 eje4 2> eje4VSGoogleBot.txt &
+java -jar Genebot.jar battletest 0.03184 0.07125 0.78486 0.60796 0.6383045 0.71740 0.570025 0.261285 eje5 2> eje5VSGoogleBot.txt &
+java -jar Genebot.jar battletest 0.539370799 0.11495072 0.53865877 0.6905063 0.2046233 0.810866 0.7627616 0.847029 eje6  2> eje6VSGoogleBot.txt &
+
+java -jar Genebot.jar battletest 0.399696 0.0128407 0.555436317 0.1560641 0.7425922 0.71094722 0.41218 0.59463941 eje7  2> eje7VSGoogleBot.txt &
+
+java -jar Genebot.jar battletest 0.53399111872 0.00364670 .0356586 0.480932 0.483687 0.72605 0.6540326 0.502991 eje8  2> eje8VSGoogleBot.txt &
+
+
+
+

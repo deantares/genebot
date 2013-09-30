@@ -1,0 +1,1 @@
+nohup java -jar EvolutionBot.jar EX --map 1,2,3,4 --h 4 --fm 0.02 --fc 0.6 --s 200 --g 100

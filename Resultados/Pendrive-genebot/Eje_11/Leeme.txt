@@ -1,0 +1,27 @@
+Para lanzar el algoritmo.
+
+Antes de nada, le tenemos que dar permisos de ejecución al fichero lanza:
+
+$ chmod +x lanzar
+
+Debemos borrar o copiar los resultados del anterior genético. En particular hay que guardar el fichero nohup y los ficheros alojados en la carpeta logs (cuidado con borrar la carpeta, que es necesaria para el genético)
+
+Por último, para lanzar el genético:
+
+$ nohup java -jar EvolutionBOT.jar SG --s 200 --g 100 --h 4 &
+
+Dode el número después de la h es el número de hebras que le vamos a dar al genético. Esas hebras requieren casi procesamiento en tiempo real, por lo que mejor no darle más hebras que procesadores tiene la máquina.
+
+¡¡Saludicos y graciejas!!
+
+ ,_     _
+ |\\_,-~/
+ / _  _ |    ,--.
+(  @  @ )   / ,-'
+ \  _T_/-._( (
+ /         `. \
+|         _  \ |
+ \ \ ,  /      |
+  || |-_\__   /
+ ((_/`(____,-'
+ 

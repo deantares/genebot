@@ -1,0 +1,283 @@
+Player 1: Variables:
+Turn 1
+Player 1: Variables:
+Turn 2
+Player 1: Variables:
+Turn 3
+Player 1: Variables:
+Turn 4
+Player 1: Variables:
+Turn 5
+Player 1: Variables:
+Turn 6
+Player 1: Variables:
+Turn 7
+Player 1: Variables:
+Turn 8
+Player 1: Variables:
+Turn 9
+Player 1: Variables:
+Turn 10
+Player 1: Variables:
+Turn 11
+Player 1: Variables:
+Turn 12
+Player 1: Variables:
+Turn 13
+Player 1: Variables:
+Turn 14
+Player 1: Variables:
+Turn 15
+Player 1: Variables:
+Turn 16
+Player 1: Variables:
+Turn 17
+Player 1: Variables:
+Turn 18
+Player 1: Variables:
+Turn 19
+Player 1: Variables:
+Turn 20
+Player 1: Variables:
+Turn 21
+Player 1: Variables:
+Turn 22
+Player 1: Variables:
+Turn 23
+Player 1: Variables:
+Turn 24
+Player 1: Variables:
+Turn 25
+Player 1: Variables:
+Turn 26
+Player 1: Variables:
+Turn 27
+Player 1: Variables:
+Turn 28
+Player 1: Variables:
+Turn 29
+Player 1: Variables:
+Turn 30
+Player 1: Variables:
+Turn 31
+Player 1: Variables:
+Turn 32
+Player 1: Variables:
+Turn 33
+Player 1: Variables:
+Turn 34
+Player 1: Variables:
+Turn 35
+Player 1: Variables:
+Turn 36
+Player 1: Variables:
+Turn 37
+Player 1: Variables:
+Turn 38
+Player 1: Variables:
+Turn 39
+Player 1: Variables:
+Turn 40
+Player 1: Variables:
+Turn 41
+Player 1: Variables:
+Turn 42
+Player 1: Variables:
+Turn 43
+Player 1: Variables:
+Turn 44
+Player 1: Variables:
+Turn 45
+Player 1: Variables:
+Turn 46
+Player 1: Variables:
+Turn 47
+Player 1: Variables:
+Turn 48
+Player 1: Variables:
+Turn 49
+Player 1: Variables:
+Turn 50
+Player 1: Variables:
+Turn 51
+Player 1: Variables:
+Turn 52
+Player 1: Variables:
+Turn 53
+Player 1: Variables:
+Turn 54
+Player 1: Variables:
+Turn 55
+Player 1: Variables:
+Turn 56
+Player 1: Variables:
+Turn 57
+Player 1: Variables:
+Turn 58
+Player 1: Variables:
+Turn 59
+Player 1: Variables:
+Turn 60
+Player 1: Variables:
+Turn 61
+Player 1: Variables:
+Turn 62
+Player 1: Variables:
+Turn 63
+Player 1: Variables:
+Turn 64
+Player 1: Variables:
+Turn 65
+Player 1: Variables:
+Turn 66
+Player 1: Variables:
+Turn 67
+Player 1: Variables:
+Turn 68
+Player 1: Variables:
+Turn 69
+Player 1: Variables:
+Turn 70
+Player 1: Variables:
+Turn 71
+Player 1: Variables:
+Turn 72
+Player 1: Variables:
+Turn 73
+Player 1: Variables:
+Turn 74
+Player 1: Variables:
+Turn 75
+Player 1: Variables:
+Turn 76
+Player 1: Variables:
+Turn 77
+Player 1: Variables:
+Turn 78
+Player 1: Variables:
+Turn 79
+Player 1: Variables:
+Turn 80
+Player 1: Variables:
+Turn 81
+Player 1: Variables:
+Turn 82
+Player 1: Variables:
+Turn 83
+Player 1: Variables:
+Turn 84
+Player 1: Variables:
+Turn 85
+Player 1: Variables:
+Turn 86
+Player 1: Variables:
+Turn 87
+Player 1: Variables:
+Turn 88
+Player 1: Variables:
+Turn 89
+Player 1: Variables:
+Turn 90
+Player 1: Variables:
+Turn 91
+Player 1: Variables:
+Turn 92
+Player 1: Variables:
+Turn 93
+Player 1: Variables:
+Turn 94
+Player 1: Variables:
+Turn 95
+Player 1: Variables:
+Turn 96
+Player 1: Variables:
+Turn 97
+Player 1: Variables:
+Turn 98
+Player 1: Variables:
+Turn 99
+Player 1: Variables:
+Turn 100
+Player 1: Variables:
+Turn 101
+Player 1: Variables:
+Turn 102
+Player 1: Variables:
+Turn 103
+Player 1: Variables:
+Turn 104
+Player 1: Variables:
+Turn 105
+Player 1: Variables:
+Turn 106
+Player 1: Variables:
+Turn 107
+Player 1: Variables:
+Turn 108
+Player 1: Variables:
+Turn 109
+Player 1: Variables:
+Turn 110
+Player 1: Variables:
+Turn 111
+Player 1: Variables:
+Turn 112
+Player 1: Variables:
+Turn 113
+Player 1: Variables:
+Turn 114
+Player 1: Variables:
+Turn 115
+Player 1: Variables:
+Turn 116
+Player 1: Variables:
+Turn 117
+Player 1: Variables:
+Turn 118
+Player 1: Variables:
+Turn 119
+Player 1: Variables:
+Turn 120
+Player 1: Variables:
+Turn 121
+Player 1: Variables:
+Turn 122
+Player 1: Variables:
+Turn 123
+Player 1: Variables:
+Turn 124
+Player 1: Variables:
+Turn 125
+Player 1: Variables:
+Turn 126
+Player 1: Variables:
+Turn 127
+Player 1: Variables:
+Turn 128
+Player 1: Variables:
+Turn 129
+Player 1: Variables:
+Turn 130
+Player 1: Variables:
+Turn 131
+Player 1: Variables:
+Turn 132
+Player 1: Variables:
+Turn 133
+Player 1: Variables:
+Turn 134
+Player 1: Variables:
+Turn 135
+Player 1: Variables:
+Turn 136
+Player 1: Variables:
+Turn 137
+Player 1: Variables:
+Turn 138
+Player 1: Variables:
+Turn 139
+Player 1: Variables:
+Turn 140
+Player 1: Variables:
+Turn 141
+Player 1 Wins!
