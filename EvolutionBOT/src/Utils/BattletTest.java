@@ -5,6 +5,7 @@
 
 package Utils;
 
+import Utils.individuos.individuo;
 import Utils.fitness.t_fitness;
 import java.util.ArrayList;
 
@@ -23,7 +24,7 @@ public class BattletTest {
     individuo tio = new individuo (new double [] {Double.parseDouble(args[1]),Double.parseDouble(args[2]),Double.parseDouble(args[3]),Double.parseDouble(args[4]),Double.parseDouble(args[5]),Double.parseDouble(args[6]),Double.parseDouble(args[7]),Double.parseDouble(args[8])});
     System.err.println(tio.ToString());
     int derrotas = 0;
-    int turnicos = 0;
+    float turnicos = 0;
             for(int i=1;i<=100;i++){
 
                 t_fitness t = new t_fitness(tio, "battletest/bt_"+ args[9] +"_" + i+".txt", new sel_mapa(new int[] {i}));
@@ -69,7 +70,7 @@ public class BattletTest {
                          // System.err.print(t1.ToString() + "VS" + t2.ToString());
                           System.err.print(poblacion.indexOf(t1) + " VS " + poblacion.indexOf(t2));
                             int derrotas = 0;
-                            int turnicos = 0;
+                            float turnicos = 0;
 
 
             for(int i=1;i<=100;i++){

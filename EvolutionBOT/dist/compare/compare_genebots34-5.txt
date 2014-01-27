@@ -1,9 +1,0 @@
-Player 2: P1 - false
-Player 2: P2 - false
-Player 2: P3 - false
-Player 2: P4 - false
-WARNING: player 1 timed out.
-WARNING: player 3 timed out.
-WARNING: player 4 timed out.
-Turn 1
-Player 2 Wins!

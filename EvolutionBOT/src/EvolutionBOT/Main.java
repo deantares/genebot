@@ -4,11 +4,18 @@
  */
 package EvolutionBOT;
 
+import EvolutionBOT.CoEvolution.CoevolutionBOT_4;
+import EvolutionBOT.CoEvolution.CoevolutionBOTFloatMax_4;
+import EvolutionBOT.CoEvolution.CoevolutionBOT;
+import EvolutionBOT.CoEvolution.CoevolutionBOTFloatMax;
+import EvolutionBOT.CoEvolutionSinFitness.CoevolutionBOT_no_fitness_basico;
+import EvolutionBOT.CoEvolutionSinFitness.CoevolutionBOT_no_fitness_basico_4vs;
+import EvolutionBOT.CoEvolutionSinFitness.CoevolutionBOT_no_fitness_estacionario_1vs1;
 import java.util.*;
 import java.io.*;
-import Utils.individuo;
+import Utils.individuos.individuo;
 import Utils.fitness.t_fitness;
-import Utils.fitness.t_fitness_versus4;
+import Utils.fitness.t_fitness_versus2;
 import Utils.sel_mapa;
 import java.util.ArrayList;
 
@@ -78,7 +85,25 @@ public class Main {
         } else if (args[0].equals("CO")) {
             CoevolutionBOT SG = new CoevolutionBOT(args);
             SG.main();
-        } else if (args[0].equals("EX")) {
+        } else if (args[0].equals("COF")) {
+            CoevolutionBOTFloatMax COF = new CoevolutionBOTFloatMax(args);
+            COF.main();
+        } else if (args[0].equals("CO4")) {
+            CoevolutionBOT_4 SG = new CoevolutionBOT_4(args);
+            SG.main();
+        } else if (args[0].equals("COF4")) {
+            CoevolutionBOTFloatMax_4 COF = new CoevolutionBOTFloatMax_4(args);
+            COF.main();
+        } else if (args[0].equals("COSF")) {
+            CoevolutionBOT_no_fitness_basico COF = new CoevolutionBOT_no_fitness_basico(args);
+            COF.main();  
+        }else if (args[0].equals("COSF-G4")) {
+            CoevolutionBOT_no_fitness_basico_4vs COF = new CoevolutionBOT_no_fitness_basico_4vs(args);
+            COF.main();
+        }else if (args[0].equals("COSF-ESTA")) {
+            CoevolutionBOT_no_fitness_estacionario_1vs1 COF = new CoevolutionBOT_no_fitness_estacionario_1vs1(args);
+            COF.main();
+        }else if (args[0].equals("EX")) {
             ExGenetic EX = new ExGenetic(args);
             EX.main();
 
@@ -273,7 +298,7 @@ public class Main {
 
                     try {
 
-                        t_fitness_versus4 t = new t_fitness_versus4(CoGeneBot_Google,CoGeneBot_Eje8, "compare_genebots"+i+"-"+h+".txt", new sel_mapa(new int[]{i}));
+                        t_fitness_versus2 t = new t_fitness_versus2(CoGeneBot_Google,CoGeneBot_Eje8, "compare_genebots"+i+"-"+h+".txt", new sel_mapa(new int[]{i}));
                         t.run();
 
                         try {

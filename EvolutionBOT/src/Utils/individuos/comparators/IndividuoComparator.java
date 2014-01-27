@@ -4,7 +4,7 @@
  */
 
 package Utils.individuos.comparators;
-import Utils.individuo;
+import Utils.individuos.individuo;
 import java.util.*;
 
 /**

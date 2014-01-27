@@ -1,10 +1,6 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package Utils;
+package Utils.individuos;
 
-import java.util.*;
+import java.util.Random;
 
 /**
  *
@@ -13,88 +9,92 @@ import java.util.*;
 public class individuo {
 
     public String ToString() {
-        String out = "Cromosomas:";
+        String out = this.marca();
+        out += ",Secundario:" + this.turnos;
+        if (puesto != -1) {
+            out += ",Principal:" + this.puesto;
+        } else {
+            out += ",¿Gana?:" + this.gana;
+        }
+        out += ",{" + this.antiguedad + "}";
+        out += ",Cromosomas:";
         for (double a : cromo) {
             out += a + ",";
         }
-        out += " - Turnos:" + this.turnos;
-        if (puesto != -1) {
-            out += " Puesto:" + this.puesto;;
-        } else {
-            out += " ¿Gana?:" + this.gana;;
-        }
-
         return out;
     }
 
     public individuo(double[] a) {
         cromo = a;
+        turnos = 0;
+        gana = false;
+        puesto = 0;
     }
 
     public individuo() {
         cromo = new double[]{0, 0, 0, 0, 0, 0, 0, 0, 0};
         turnos = 0;
         gana = false;
+        puesto = 0;
     }
 
     public void reset(){
         turnos = 0;
         gana = false;
-        puesto = -1;
+        puesto = 0;
     }
     
-    public int compare(individuo t1, individuo t2) {
-        if(t1.turnos == 0){ return 1;}
-        if(t2.turnos == 0){ return -1;}
-        if (t1.puesto != -1 && t2.puesto != -1) {
-            if (t1.gana != t2.gana) {
-                if (t1.gana == false) {
-                    return 1;
-                }
-                if (t2.gana == false) {
-                    return -1;
-                }
-            } else {
-                if (t1.turnos < t2.turnos) {
-                    return -1;
-                } else if (t1.turnos > t2.turnos) {
-                    return 1;
-                } else {
-                    return 0;
-                }
-            }
-            return 0;
-        } else {
-            if (t1.puesto < t2.puesto) {
-                if (t1.gana == false) {
-                    return -1;
-                }
-                if (t2.gana == false) {
-                    return 1;
-                }
-            } else if (t1.puesto == 1) {
-                if (t1.turnos < t2.turnos) {
-                    return -1;
-                } else if (t1.turnos > t2.turnos) {
-                    return 1;
-                } else {
-                    return 0;
-                }
-            } else {
-                if (t1.turnos > t2.turnos) {
-                    return -1;
-                } else if (t1.turnos > t2.turnos) {
-                    return 1;
-                } else {
-                    return 0;
-                }
-            }
-        }
-        return 0;
+    public individuo random(){
+      Random aleatorio = new Random(System.currentTimeMillis());
+      return new individuo(new double[]{aleatorio.nextDouble(), aleatorio.nextDouble(), aleatorio.nextDouble(), aleatorio.nextDouble(), aleatorio.nextDouble(), aleatorio.nextDouble(), aleatorio.nextDouble(), aleatorio.nextDouble()});
     }
+    
+    public void setPrincipal(float a){
+      this.puesto = a;
+    }
+    
+    public void setSecundario(float a){
+      this.turnos = a;
+    }
+    
+    public float getPrincipal(){
+      return this.puesto;
+    }
+    
+    public float getSecundario(){
+      return this.turnos;
+    }
+    
+    public String marca(){
+      String r = "";
+      for (double a : cromo){
+        char b;int c;
+        if(a<0.5){
+          b = 'a';
+          c = Math.round((float) a * 25);
+        }else{
+          b = 'A';
+          c = Math.round((float) (a-0.5) * 25);
+        }
+        
+        char d = (char) (b+c);
+        r += String.valueOf(d);
+      }
+      return "["+r+"]";
+    }
+    
+    public void setFitness(float pp, float ps){
+      antiguedad++;
+      puesto = pp;
+      turnos = ps;
+    }
+  
+
     public double[] cromo;
-    public int turnos;
+    public float turnos;
     public boolean gana;
-    //Parámetros para el co-evolutivo
-    public int puesto = -1;
+    //Parámetros para el co-evolutivo por turnos
+    public float puesto = 0;
+    public int antiguedad = 0;
+    //Parámetros para el co-evolutivo por flotantes
 }

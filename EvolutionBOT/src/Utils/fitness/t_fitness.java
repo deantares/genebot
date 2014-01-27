@@ -5,7 +5,7 @@
 package Utils.fitness;
 
 import Utils.fitness_return;
-import Utils.individuo;
+import Utils.individuos.individuo;
 import Utils.sel_mapa;
 import java.io.*;
 

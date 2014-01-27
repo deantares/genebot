@@ -4,14 +4,14 @@
  */
 
 package Utils.individuos.comparators;
-import Utils.individuo;
+import Utils.individuos.individuo;
 import java.util.*;
 
 /**
  *
  * @author antares
  */
-public class IndividuoComparatorVersus4  implements Comparator{
+public class IndividuoComparatorVersus4FloatMax  implements Comparator{
 
   public int compare(Object o1, Object o2) {
     individuo t1 = (individuo) o1;
@@ -19,18 +19,14 @@ public class IndividuoComparatorVersus4  implements Comparator{
     
     if(t1.turnos == 0){return 1;}
     if(t2.turnos == 0){return -1;}
-    
-    if (t1.puesto < t2.puesto) {
+   
+    if (t1.puesto > t2.puesto) {
         return -1;
-    }else if(t1.puesto > t2.puesto){
+    }else if(t1.puesto < t2.puesto){
         return 1;
-    }else if(t1.puesto == 4){
-        if(t1.turnos<t2.turnos) return -1;
-            else if(t1.turnos>t2.turnos) return 1;
-            else return 0;
-    }else{
-        if(t1.turnos<t2.turnos) return 1;
-            else if(t1.turnos>t2.turnos) return -1;
+    }else /*if(t1.puesto == 4)*/{
+        if(t1.turnos>t2.turnos) return -1;
+            else if(t1.turnos<t2.turnos) return 1;
             else return 0;
     }
 

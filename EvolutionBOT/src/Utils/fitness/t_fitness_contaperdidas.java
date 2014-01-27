@@ -6,7 +6,7 @@
 package Utils.fitness;
 
 import Utils.fitness_return;
-import Utils.individuals.individuo_contaperdidas;
+import Utils.individuos.individuo_contaperdidas;
 import Utils.sel_mapa;
 import java.io.*;
 

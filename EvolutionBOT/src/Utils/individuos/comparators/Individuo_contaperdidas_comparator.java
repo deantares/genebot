@@ -6,7 +6,7 @@
 package Utils.individuos.comparators;
 
 import java.util.*;
-import Utils.individuals.individuo_contaperdidas;
+import Utils.individuos.individuo_contaperdidas;
 
 /**
  *

@@ -4,6 +4,7 @@
  */
 package EvolutionBOT;
 
+import Utils.individuos.individuo;
 import Utils.individuos.comparators.IndividuoComparator;
 import Utils.fitness.t_fitness;
 import java.util.*;

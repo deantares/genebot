@@ -3,10 +3,10 @@
  * and open the template in the editor.
  */
 
-package Utils.individuals;
+package Utils.individuos;
 
 
-import Utils.individuo;
+import Utils.individuos.individuo;
 import java.util.*;
 
 /**

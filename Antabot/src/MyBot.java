@@ -50,14 +50,23 @@ public class MyBot {
 //0.45170600185766996
 //Turnos:596
 
-        double diezmo = 0.09978267816749446;
-        double p_diezmo = 0.23032668116070584;
-        double p_NS = 0.06446668711729682;
-        double p_GR = 0.3145662812995889;
-        double p_DIS = 0.6783974914572055;
-        int flotas_extras = (int) (0.7306356321118216 * 20);
-        double envio_secundo = 0.6645303530434207;
-        double p_envio_secundo = 0.7107283003587886;
+//        double diezmo = 0.09978267816749446;
+//        double p_diezmo = 0.23032668116070584;
+//        double p_NS = 0.06446668711729682;
+//        double p_GR = 0.3145662812995889;
+//        double p_DIS = 0.6783974914572055;
+//        int flotas_extras = (int) (0.7306356321118216 * 20);
+//        double envio_secundo = 0.6645303530434207;
+//        double p_envio_secundo = 0.7107283003587886;
+              
+        double diezmo = 0.5339911187296903;
+        double p_diezmo = 0.003646706463124119;
+        double p_NS = 0.35658600072154845;
+        double p_GR = 0.48093248816123474;
+        double p_DIS = 0.4863878165314131;
+        int flotas_extras = (int) (0.7160563139637138 * 20);
+        double envio_secundo = 0.6540326750398607;
+        double p_envio_secundo = 0.5029913016747484;
 
         //System.err.println("---------------> 1");
         //Peso[0] Diezmo
@@ -529,31 +538,14 @@ public class MyBot {
                     case '\n':
                         if (line.equals("go")) {
                             PlanetWars pw = new PlanetWars(message);
-                            //long tiempoInicio = System.currentTimeMillis();
-                            /*System.err.println("Empezamoooos:" + Float.valueOf(args[0]));
-                             System.err.println("Empezamoooos:" + Float.valueOf(args[1]));
-                             System.err.println("Empezamoooos:" + Float.valueOf(args[2]));
-                             System.err.println("Empezamoooos:" + Float.valueOf(args[3]));
-                             System.err.println("Empezamoooos:" + Float.valueOf(args[4]));
-                             System.err.println("Empezamoooos:" + Float.valueOf(args[5]));
-                             System.err.println("Empezamoooos:" + Float.valueOf(args[6]));
-                             System.err.println("Empezamoooos:" + Float.valueOf(args[7]));*/
-//                            if (args[0].equals("EX")) {
-                            //DoTurnEX(pw);
-//                            } else
-//                            if (args.length < 7) {
-//                                DoTurn(pw);
-//                            } else {
-                            DoTurn(pw, new double[]{Float.valueOf(args[0]), Float.valueOf(args[1]), Float.valueOf(args[2]), Float.valueOf(args[3]), Float.valueOf(args[4]), Float.valueOf(args[5]), Float.valueOf(args[6]), Float.valueOf(args[7])});
-                            //DoTurn(pw);
-//                            }
-                            //long totalTiempo = System.currentTimeMillis() - tiempoInicio;
-                            // System.err.println("TIEMPO EJECUCION:" + totalTiempo + "ms");
-                            //System.err.println("P0 - " +  pw.IsAlive(0) );
-                            System.err.println("P1 - " + pw.IsAlive(1));
-                            System.err.println("P2 - " + pw.IsAlive(2));
-                            System.err.println("P3 - " + pw.IsAlive(3));
-                            System.err.println("P4 - " + pw.IsAlive(4));
+                            DoTurnEX(pw);
+                            //DoTurn(pw, new double[]{Float.valueOf(args[0]), Float.valueOf(args[1]), Float.valueOf(args[2]), Float.valueOf(args[3]), Float.valueOf(args[4]), Float.valueOf(args[5]), Float.valueOf(args[6]), Float.valueOf(args[7])});
+                            
+                            int total_Ships = pw.TotalNumShips();
+                            System.err.println("P1 - " + pw.IsAlive(1) + "-" + pw.NumPlanets(1).size() +"/"+ pw.NumPlanets() + "-"+ pw.NumShips(1) + "/" + total_Ships);
+                            System.err.println("P2 - " + pw.IsAlive(2) + "-" + pw.NumPlanets(2).size() +"/"+ pw.NumPlanets() + "-"+ pw.NumShips(2) + "/" + total_Ships);
+                            System.err.println("P3 - " + pw.IsAlive(3) + "-" + pw.NumPlanets(3).size() +"/"+ pw.NumPlanets() + "-"+ pw.NumShips(3) + "/" + total_Ships);
+                            System.err.println("P4 - " + pw.IsAlive(4) + "-" + pw.NumPlanets(4).size() +"/"+ pw.NumPlanets() + "-"+ pw.NumShips(4) + "/" + total_Ships);
                             pw.FinishTurn();
                             message = "";
                         } else {
